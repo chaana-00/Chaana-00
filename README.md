@@ -14,12 +14,12 @@
   
 
 - 🌱 Currently learning BSc.(Hons) Software Engineering  
+
+
+- ⚡ Proud Rahulian
   
 
 - 💬 Email: codeforge.innovations@gmail.com
-
-  
-- ⚡ Proud Rahulian
   
 
 - 📫 LinkedIn: https://www.linkedin.com/in/chaana00/  
