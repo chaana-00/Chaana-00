@@ -34,7 +34,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -52,7 +51,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 </div>  
 
-
+</td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
