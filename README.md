@@ -10,7 +10,7 @@
 <h2 align="center">Software Engineer | Business System Analyst | IT Instructor | Graphic Designer </h2>
 </div>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=chaana-00&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=chaana-00&&style=for-the-badge)
 
 
 
