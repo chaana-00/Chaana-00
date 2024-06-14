@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 100%"/>
+<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/raw/master/assets/image.gif" align="center" style="width: 100%"/>
+  
 </div>  
   
 
