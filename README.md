@@ -6,8 +6,7 @@
 
 ### <div align="center">
 <h1 align="center">I'm ✨ Chanaka Sanjaya Bandara ✨ | Proud Rahulian</h1>
-
-Software Engineer | Business System Analyst | IT Instructor | Graphic Designer 
+<h2 align="center">Software Engineer | Business System Analyst | IT Instructor | Graphic Designer </h2>
 </div>  
   
 
