@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/raw/master/assets/image.gif" align="center" style="width: 100%"/>
-  
 </div>  
-  
+
 
 ### <div align="center">
 <h1 align="center">I'm ✨ Chanaka Sanjaya Bandara ✨</h1>
