@@ -5,7 +5,7 @@
   
 
 ### <div align="center">
-<h1 align="center">I'm ✨ Chanaka Sanjaya Bandara ✨ | Proud Rahulian</h1>
+<h1 align="center">I'm ✨ Chanaka Sanjaya Bandara ✨</h1>
 <h2 align="center">Software Engineer | Business System Analyst | IT Instructor | Graphic Designer </h2>
 </div>  
   
@@ -16,7 +16,10 @@
 - 🌱 Currently learning BSc.(Hons) Software Engineering  
   
 
-- 💬 Email: codeforge.innovations@gmail.com  
+- 💬 Email: codeforge.innovations@gmail.com
+
+  
+- ⚡ Proud Rahulian
   
 
 - 📫 LinkedIn: https://www.linkedin.com/in/chaana00/  
