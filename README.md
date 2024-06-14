@@ -109,8 +109,9 @@
   
 
 <br/>  
-## Github Contribution
 
+## Github Contribution
+<div>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -125,11 +126,10 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+</div>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chaana-00&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
 <div align="center"></div>
-<br />
