@@ -5,6 +5,7 @@
   
 
 ### <div align="center">
+![Profile views counter](https://komarev.com/ghpvc/?username=chaana-00&&style=flat-square)  
 <h1 align="center">I'm ✨ Chanaka Sanjaya Bandara ✨</h1>
 <h2 align="center">Software Engineer | Business System Analyst | IT Instructor | Graphic Designer </h2>
 </div>  
@@ -119,29 +120,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chaana-00&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-
-### Profile Viewers  
-![Profile views counter](https://komarev.com/ghpvc/?username=chaana-00&&style=flat-square)  
-  
-
 <br/>  
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
