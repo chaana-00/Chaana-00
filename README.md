@@ -13,7 +13,7 @@
 
 
 
-- 🔭 Founder at [https://codeforge.theforestandlake.com](https://chaana-00.github.io/codeforge/)  
+- 🔭 Founder at https://chaana-00.github.io/codeforge/  
   
 
 - 🌱 Currently learning BSc.(Hons) Software Engineering  
