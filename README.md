@@ -6,7 +6,7 @@
 ### <div align="center">
 <h1 align="center">I'm ✨ Chanaka Sanjaya Bandara ✨</h1>
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=30&center=true&vCenter=true&random=false&width=435&lines=Developer;Designer" alt="Typing SVG" /></a></h3>
-<h2 align="center">Software Engineer | Business System Analyst | IT Instructor | Graphic Designer </h2>
+<h2 align="center">Software Engineer | Business System Analyst | Programmer Analyst | Graphic Designer </h2>
 </div>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=chaana-00&&style=for-the-badge)
