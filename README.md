@@ -16,7 +16,7 @@
 - 🔭 Founder at https://chaana-00.github.io/codeforge/  
   
 
-- 🌱 Currently learning BSc.(Hons) Software Engineering  
+- 🌱 Graduated BSc.(Hons) Software Engineering  
 
 
 - ⚡ Proud Rahulian
